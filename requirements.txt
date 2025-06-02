@@ -1,0 +1,10 @@
+openai
+pinecone-client
+python-dotenv
+tqdm
+
+# For development (optional)
+# pytest
+# black
+# flake8
+# mypy
